@@ -1,7 +1,17 @@
 # Code Generator Project
 
-Page with notes generated in chatgpt for code projects.
+Page with notes generated in chatgpt for code projects.  
+Point of this is to setup, prepare, plan.  
+To make implementation more researched, faster, better.
 
-## Project C++ Engine
+## C++ Engine
 
-1. [](001.md)
+1. [](c++_engine/001.md)
+
+## Python cli app
+
+1. [Config files](python_cli_app/001_config_files.md)
+
+## Game Math
+
+1. [](game_math/001.md)

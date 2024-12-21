@@ -27,3 +27,7 @@ Console line interface app in python.
 
 1. [MVP Plan](parking_game/001_mvp_plan.md)
 2. [Car](parking_game/002_car.md)
+
+## Interesting
+
+1. [Computer science evolution](interesting/001_computer_evolution.md)

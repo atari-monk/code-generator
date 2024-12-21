@@ -9,6 +9,7 @@ To make implementation more researched, faster, better.
 Multiplayer Battleship game
 
 1. [Setup project](battleship/001_setup_project.md)
+2. [Setup socket.io server](battleship/002_setup_socket_io_server.md)
 
 ## C++ Engine
 

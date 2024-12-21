@@ -4,6 +4,12 @@ Page with notes generated in chatgpt for code projects.
 Point of this is to setup, prepare, plan.  
 To make implementation more researched, faster, better.
 
+## Battleship
+
+Multiplayer Battleship game
+
+1. [Setup project](battleship/001_setup_project.md)
+
 ## C++ Engine
 
 C++ 3d custom engine.

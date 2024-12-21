@@ -20,4 +20,5 @@ To make implementation more researched, faster, better.
 
 2D parking simulator game inspired by the early 2D version of Grand Theft Auto using Python and Pygame.
 
-1. [Car](parking_game/001_car.md)
+1. [MVP Plan](parking_game/001_mvp_plan.md)
+2. [Car](parking_game/002_car.md)

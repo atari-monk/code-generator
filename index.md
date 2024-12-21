@@ -6,9 +6,14 @@ To make implementation more researched, faster, better.
 
 ## C++ Engine
 
-1. [](c++_engine/001.md)
+C++ 3d custom engine.
+
+1. [Engine Core](c++_engine/001_engine_core.md)
+2. [Build](c++_engine/002_build.md)
 
 ## Python cli app
+
+Console line interface app in python.
 
 1. [Config files](python_cli_app/001_config_files.md)
 
